@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BigRed-LittleHood
-- 👀 I’m interested in Data Analysis and Smart home applications using Google assistant 
-- 🌱 I’m currently learning Data Analysis and developing using Google Actions
-- 💞️ I’m looking to collaborate on Smart home applications and Data Analysis projects
+- 👀 I’m interested in Data Analysis 
+- 🌱 I’m currently learning Data Analysis 
+- 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me: h.a.bravo42@gmail.com 
 
 <!---
