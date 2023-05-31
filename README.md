@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BigRed-LittleHood
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning Data Analysis 
+- 👀 I’m interested in Data Analysis & completing the Google Data Analytics Certificate 
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me: h.a.bravo42@gmail.com 
 
