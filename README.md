@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HannahBravoDeRueda
+- 👋 Hi, I’m @HannahBravo
 - 👀 I’m interested in Data Analysis & completing the Google Data Analytics Certificate 
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me: h.a.bravo42@gmail.com 
