@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HannahBravo
-- 👀 I’m interested in Data Analysis & completing the Google Data Analytics Certificate 
-- 💞️ I’m looking to collaborate on Data Analysis projects
+- 👀 I’m transitioning into the field of Data Analytics  
+- I completed the Google Data Anlaytics Certificate and other Data Analysis Certificates via Coursera
 - 📫 How to reach me: h.a.bravo42@gmail.com 
 
 <!---
